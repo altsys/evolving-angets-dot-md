@@ -1,2 +1,2 @@
-# evolving-angets-dot-md
+# evolving-agents-dot-md
 A skill that updates agents dot Md when the project changes.
